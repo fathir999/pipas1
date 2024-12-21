@@ -1,0 +1,68 @@
+*,html{
+    padding: 0%;
+    margin: 0%;
+}
+.ul-navbar{
+    background-color: rgb(54, 50, 43);
+    color: brown;
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    animation: 3s;
+    
+}
+.animation:hover{
+    color: black;
+    
+}
+
+.li-navbar{
+    background-color: black;
+    display: flex;
+    gap: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    list-style: none;
+    font-size: 25px;
+}
+.judul{
+    background-color: brown;
+    padding: 20px;
+    height: 700px;
+    text-align: center;
+
+}
+.al{
+    background-color: seashell;
+    justify-self: center;
+    border-radius: 20px;
+}
+.profil{
+    background-color: antiquewhite;
+    padding: 100px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.foto{
+    display: flex;
+    justify-content: left;
+}
+
+
+
+.artikel{
+    background-color: rgb(87, 66, 66);
+    padding:100px;
+}
+
+.isi{
+    border-radius: 20px;
+    background-color: aqua;
+    padding: 100px;
+    margin: 10px;
+    height: 1500px;
+}
+
+
+    
+
